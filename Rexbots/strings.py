@@ -3,7 +3,7 @@
 # Telegram Channel @RexBots_Official
 
 
-HELP_TXT = """<b>🛠 𝐇𝐨𝐰 𝐓𝐨 𝐔𝐬𝐞 𝐌𝐞 - 𝐂𝐨𝐦𝐦𝐚𝐧 𝐝 𝐆𝐮𝐢𝐝𝐞</b>
+HELP_TXT = """<b>🛠 𝐇𝐨𝐰 𝐓𝐨 𝐔𝐬𝐞 𝐌𝐞 - 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐆𝐮𝐢𝐝𝐞</b>
 
 <b>👤 𝐔𝐬𝐞𝐫 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬</b>
 
@@ -84,9 +84,9 @@ View premium plan details and pricing.
 <i>Usage: /premium</i></blockquote>
 
 <b>🛠 𝐀𝐝𝐦𝐢𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬</b>
-# Rexbots
+# 𝐍𝐢𝐤𝐡𝐢𝐥 𝐁𝐡𝐚𝐢 𝐁𝐨𝐭'𝐬
 # Don't Remove Credit
-# Telegram Channel @RexBots_Official
+# Telegram Channel @nikhil_bhai_bots
 
 <blockquote><b>🚫 /ban</b>
 Ban a user from using the bot.
