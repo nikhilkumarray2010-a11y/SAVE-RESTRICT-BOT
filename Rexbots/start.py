@@ -183,8 +183,8 @@ async def send_start(client: Client, message: Message):
              InlineKeyboardButton("⚙️ Settings", callback_data="settings_btn")
         ],
         [
-            InlineKeyboardButton('📢 Official Channel', url='https://t.me/RexBots_Official'),
-            InlineKeyboardButton('👨‍💻 Developer', url='https://t.me/about_zani/143')
+            InlineKeyboardButton('📢 Official Channel', url='https://t.me/nikhil_bhai_bots'),
+            InlineKeyboardButton('👨‍💻 Developer', url='https://t.me/Nikhil_bhaii_Contact_bot')
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -619,8 +619,8 @@ async def button_callbacks(client: Client, callback_query):
         about_text = (
             "<b><blockquote>‣ ℹ️ 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍</blockquote>\n\n"
             "<i>• 🤖 𝐍𝐚𝐦𝐞 : 𝐒𝐚𝐯𝐞 𝐑𝐞𝐬𝐭𝐫𝐢𝐜𝐭𝐞𝐝 𝐂𝐨𝐧𝐭𝐞𝐧𝐭\n"
-            "• 👨‍💻 𝐎𝐰𝐧𝐞𝐫 : <a href='https://t.me/RexBots_Official'>𝐑𝐞𝐱𝐁𝐨𝐭𝐬</a>\n"
-            "• 📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 : <a href='https://t.me/RexBots_Official'>𝐑𝐞𝐱𝐁𝐨𝐭𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥</a>\n"
+            "• 👨‍💻 𝐎𝐰𝐧𝐞𝐫 : <a href='https://t.me/nikhil_bhai_bots'>𝐍𝐢𝐤𝐡𝐢𝐥 𝐁𝐡𝐚𝐢 𝐁𝐨𝐭'𝐬</a>\n"
+            "• 📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 : <a href='https://t.me/nikhil_bhai_bots'>𝐍𝐢𝐤𝐡𝐢𝐥 𝐁𝐡𝐚𝐢 𝐁𝐨𝐭'𝐬</a>\n"
             "• 🐍 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : <a href='https://www.python.org/'>𝐏𝐲𝐭𝐡𝐨𝐧 𝟑</a>\n"
             "• 📚 𝐋𝐢𝐛𝐫𝐚𝐫𝐲 : <a href='https://docs.pyrogram.org/'>𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦</a>\n"
             "• 🗄 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 : <a href='https://www.mongodb.com/'>𝐌𝐨𝐧𝐠𝐨𝐃𝐁</a>\n"
@@ -629,7 +629,7 @@ async def button_callbacks(client: Client, callback_query):
 
         about_buttons = InlineKeyboardMarkup([
             [
-                InlineKeyboardButton("📢 Join Channel", url="https://t.me/RexBots_Official")
+                InlineKeyboardButton("📢 Join Channel", url="https://t.me/nikhil_bhai_bots")
             ],
             [
                 InlineKeyboardButton("❌ Close", callback_data="close_btn"),
@@ -655,8 +655,8 @@ async def button_callbacks(client: Client, callback_query):
                 InlineKeyboardButton("ℹ️ About Bot", callback_data="about_btn")
             ],
             [
-                InlineKeyboardButton('📢 Official Channel', url='https://t.me/RexBots_Official'),
-                InlineKeyboardButton('👨‍💻 Developer', url='https://t.me/RexBots_Official')
+                InlineKeyboardButton('📢 Official Channel', url='https://t.me/nikhil_bhai_bots'),
+                InlineKeyboardButton('👨‍💻 Developer', url='https://t.me/nikhil_bhai_bots')
             ]
         ])
         await client.edit_message_text(
