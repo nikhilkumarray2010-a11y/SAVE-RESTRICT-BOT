@@ -15,7 +15,7 @@ def hello_world():
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>@RexBots_Official</title>
+  <title>𝐍𝐢𝐤𝐡𝐢𝐥 𝐁𝐡𝐚𝐢 𝐁𝐨𝐭'𝐬</title>
   <style>
     body {
       background-color: black;
@@ -88,7 +88,7 @@ def hello_world():
   <!-- Added avatar -->
   <img class="avatar" src="https://avatars.githubusercontent.com/u/194442566?v=4">
 
-  <a href="https://t.me/SaveRestriction_oBot" target="_blank">
+  <a href="https://t.me/Nikhil_bhaii_Contact_bot" target="_blank">
     <h1>SaveRestrictions-Bot</h1>
     <h2>Coded By @Nikhil_bhaii_Contact_bot</h2>
   </a>
